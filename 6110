@@ -70,7 +70,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="status-text">💸 正在簽約中</div>
+        <div class="status-text">💸 正在砍價中</div>
         <div class="progress-container">
             <div class="progress-bar">
                 <div class="progress-text">0%</div>
